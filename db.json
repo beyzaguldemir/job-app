@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "7fb211e4-a53e-4804-b949-9a3d25b8e67c",
+      "date": 1712608152577
+    },
+    {
+      "id": "e39ab30d-825d-4d01-b434-ab4684070e7e",
+      "position": "seahjhj",
+      "company": "kjklmmöm",
+      "location": "kjkjkjkn",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1722631442690
+    },
+    {
+      "id": "74a62500-9e91-4759-a96f-6cb11d55795c",
+      "position": "kjljkjj",
+      "company": "jkhkjhkh",
+      "location": "jkjjj",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": 1722631487236
+    },
+    {
+      "id": "173be7ee-4e1d-4d72-98f9-97f0b7c5c607",
+      "position": "backend",
+      "company": "udemig",
+      "location": "istanbul",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": 1722690734156
+    },
+    {
+      "id": "d05e972d-f065-4fb6-848e-9eb22a0e2c1b",
+      "position": "jkdjskldj",
+      "company": "snkskdks",
+      "location": "mnsnjan",
+      "status": "Mülakat",
+      "type": "Staj",
+      "date": 1722698145629
+    }
+  ]
+}
